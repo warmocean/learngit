@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple 3.
 Branches manage.
 branch add 2.
+I'm the master change dev!
